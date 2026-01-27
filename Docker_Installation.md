@@ -25,7 +25,7 @@ This guide explains **step-by-step Docker installation** for beginners on:
 
 ### 🔹 Step 2: Download Docker Desktop
 1. Open your browser
-2. Visit: https://www.docker.com/products/docker-desktop
+2. Visit: [https://www.docker.com/products/docker-desktop](https://docs.docker.com/desktop/setup/install/windows-install/)
 3. Click **Download for Windows**
 
 ---
