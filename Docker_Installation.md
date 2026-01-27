@@ -8,13 +8,6 @@ This guide explains **step-by-step Docker installation** for beginners on:
 
 ## 🪟 Docker Installation on Windows (Step by Step)
 
-### ✅ System Requirements
-- Windows 10 or Windows 11 (64-bit)
-- Virtualization enabled
-- Admin access
-
----
-
 ### 🔹 Step 1: Download Docker Desktop
 1. Open your browser
 2. Visit: [https://www.docker.com/products/docker-desktop](https://docs.docker.com/desktop/setup/install/windows-install/)
